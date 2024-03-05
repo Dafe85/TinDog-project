@@ -1,2 +1,1 @@
-# TinDog-project
-a frontend web dev project
+TinDog Starting Files
